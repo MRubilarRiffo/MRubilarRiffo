@@ -1,16 +1,20 @@
-### Hi there 👋
+# Mauricio A. Rubilar 😊
 
-<!--
-**MRubilarRiffo/MRubilarRiffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la Programación, el Emprendimiento y la Preparación Física 💻🚀🏋🏽‍♂️
 
-Here are some ideas to get you started:
+¡Bienvenido/a a mi perfil de GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un entusiasta de la programación y el desarrollo web, con un enfoque especial en el emprendimiento y el eCommerce. Aunque actualmente no cuento con experiencia profesional como programador, he estado dedicando tiempo y esfuerzo para adquirir habilidades sólidas en esta emocionante disciplina.
+
+En mi viaje de aprendizaje, me he enfocado en dominar tecnologías clave del desarrollo web. Mi experiencia en JavaScript, HTML y CSS me permite crear interfaces interactivas y atractivas para los usuarios.
+
+Estoy abierto a oportunidades de aprendizaje, prácticas profesionales y colaboraciones que me permitan desarrollarme como programador Full Stack.
+
+Si compartes mi pasión por el desarrollo web, el eCommerce y la tecnología, me encantaría conectar contigo. Juntos, podemos explorar nuevas posibilidades y enfrentar nuevos desafíos. 🌟
+
+**Contacto:**
+- LinkedIn: [linkedin.com/in/mauricio-rubilar](https://www.linkedin.com/in/mauricio-rubilar)
+- Email: m.rubilar1010@gmail.com
+
+**Etiquetas:**
+#DesarrolloWeb #Programación #WebDevelopment #FullStackDeveloper #eCommerce
