@@ -15,6 +15,3 @@ Si compartes mi pasión por el desarrollo web, el eCommerce y la tecnología, me
 **Contacto:**
 - LinkedIn: [linkedin.com/in/mauricio-rubilar](https://www.linkedin.com/in/mauricio-rubilar)
 - Email: m.rubilar1010@gmail.com
-
-**Etiquetas:**
-#DesarrolloWeb #Programación #WebDevelopment #FullStackDeveloper #eCommerce
