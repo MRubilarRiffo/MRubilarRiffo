@@ -1,4 +1,4 @@
-# Mauricio A. Rubilar 😊
+# Mauricio A. Rubilar
 
 Apasionado por la Programación, el Emprendimiento y la Preparación Física 💻🚀🏋🏽‍♂️
 
